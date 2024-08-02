@@ -3,7 +3,7 @@
 [![JSR](https://jsr.io/badges/@rbardini/html)](https://jsr.io/@rbardini/html)
 [![JSR Score](https://jsr.io/badges/@rbardini/html/score)](https://jsr.io/@rbardini/html)
 
-Tiny tagged template literal for no-build JSX-like syntax, compatible with all
+Tiny `html` tag function for no-build JSX-like syntax, compatible with all
 modern browsers and runtimes.
 
 ```ts

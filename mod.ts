@@ -1,3 +1,9 @@
+/**
+ * Interprets a template literal as an HTML template.
+ * @param strings The string parts
+ * @param values The values to interpolate
+ * @returns The concatenated string parts with values interpolated
+ */
 export function html(
   strings: TemplateStringsArray,
   ...values: unknown[]
